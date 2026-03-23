@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- I am [Carl](www.linkedin.com/in/carl-sullivan-79426a1b1)!!! 
+ I am [Carl](www.linkedin.com/in/carl-sullivan-79426a1b1),
  
  I have been a Network Engineer for the past 20 years that has transitioned into  Migrating, Optimizing and Securing services in the Cloud. 
  
