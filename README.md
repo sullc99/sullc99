@@ -15,7 +15,7 @@
                Along with the NVlinks and INFINI Bands to connect everything together.
                
 
-Here are some [Projects](https://medium.com/@carl.sullivan), I had fun with, acting as a DevOps Enginee!
+Here are some [Projects](https://medium.com/@carl.sullivan), I had fun with, acting as a DevOps Engineer!
 
 
 
