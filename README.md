@@ -15,7 +15,7 @@
 📫 How to reach me: 
                www.linkedin.com/in/carl-sullivan-79426a1b1
 
-🌱 Projects I worked on:
+🌱 DevOps / IAC Projects I worked on:
                https://medium.com/@carl.sullivan\
 
 
