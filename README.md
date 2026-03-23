@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-
-
+ I am [Carl](www.linkedin.com/in/carl-sullivan-79426a1b1)!!! 
+ 
+ I have been a Network Engineer for the past 20 years that has transitioned into  Migrating, Optimizing and Securing services in the Cloud. 
+ 
 🔭 I’m currently working on: 
                My HasihCorp Terraform Certification and  Azure Networking Projects using CI/CD piplelines to builds things.
 
@@ -13,7 +15,7 @@
                Along with the NVlinks and INFINI Bands to connect everything together.
 
 📫 How to reach me: 
-               www.linkedin.com/in/carl-sullivan-79426a1b1
+               
 
 🌱 DevOps / IAC Projects I worked on:
                https://medium.com/@carl.sullivan\
