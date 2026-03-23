@@ -13,11 +13,10 @@
 👯 I’m looking to collaborate on:
                Cloud and Networking Communities where I can dig into the IAC portion of AI and the GPU's that will run it.
                Along with the NVlinks and INFINI Bands to connect everything together.
-
-📫 How to reach me: 
                
 
-🌱 DevOps / IAC Projects I worked on:
-               https://medium.com/@carl.sullivan\
+Here are some [Projects](https://medium.com/@carl.sullivan), I had fun with, acting as a DevOps Enginee!
+
+
 
 
